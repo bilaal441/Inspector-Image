@@ -1,0 +1,11 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Other temporary or generated files
+*.DS_Store
+*.bak
+*.tmp
+*.log
+*.swp
+image
